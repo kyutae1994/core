@@ -1,5 +1,6 @@
-package hello.core;
+package hello.core.singleton;
 
+import hello.core.AppConfig;
 import hello.core.member.MemberService;
 import hello.core.singleton.SingletonService;
 import org.assertj.core.api.Assertions;
